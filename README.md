@@ -215,4 +215,4 @@ PCGen is the official free version, which means you have access to all features 
 Ready to enhance your RPG experience? Download **PCGen** now and unleash your creativity!
 
 ---
-**Last updated:** 2026-09-19 13:45:58 UTC
+**Last updated:** 2026-09-19 17:03:57 UTC
